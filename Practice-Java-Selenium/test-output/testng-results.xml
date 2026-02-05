@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-28T18:24:19 IST" name="Default suite" finished-at="2026-01-28T18:24:31 IST" duration-ms="11396">
+    <groups>
+    </groups>
+    <test started-at="2026-01-28T18:24:19 IST" name="Default test" finished-at="2026-01-28T18:24:31 IST" duration-ms="11396">
+      <class name="org.TestNG.VinothQa.RegistrationForm">
+        <test-method is-config="true" signature="demoSite()[pri:0, instance:org.TestNG.VinothQa.RegistrationForm@6743e411]" started-at="2026-01-28T18:24:19 IST" name="demoSite" finished-at="2026-01-28T18:24:28 IST" duration-ms="8344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoSite -->
+        <test-method signature="textFields()[pri:1, instance:org.TestNG.VinothQa.RegistrationForm@6743e411]" started-at="2026-01-28T18:24:28 IST" name="textFields" finished-at="2026-01-28T18:24:29 IST" duration-ms="1685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textFields -->
+        <test-method signature="radioAndChecks()[pri:2, instance:org.TestNG.VinothQa.RegistrationForm@6743e411]" started-at="2026-01-28T18:24:29 IST" name="radioAndChecks" finished-at="2026-01-28T18:24:30 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioAndChecks -->
+        <test-method signature="dateAndDropDown()[pri:3, instance:org.TestNG.VinothQa.RegistrationForm@6743e411]" started-at="2026-01-28T18:24:30 IST" name="dateAndDropDown" finished-at="2026-01-28T18:24:31 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateAndDropDown -->
+      </class> <!-- org.TestNG.VinothQa.RegistrationForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
